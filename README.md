@@ -36,14 +36,15 @@
     <!-- </br>Tsinghua University -->
     </li>&emsp;
     <br>
-    <sup>1</sup>Tsinghua University &nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
+    <sup>1</sup>Tsinghua University
 </div>
 
 <!-- <strong><a href='https://moonsliu.github.io/Pro-Motion/' target='_blank'>Project Page</a></strong>&emsp; -->
 <!-- <strong><a href='https://arxiv.org/pdf/2312.14828.pdf'>Paper(arXiv)</a></strong>&emsp; -->
 
-![teaser](images/figure1.png)
-![pipeline](images/figure2.png)
+![teaser](images/teaser.png)
+![method1](images/figure1.png)
+![method2](images/figure2.png)
 
 ## Updates
-- [2024-04] Code coming soon! :running::running::running:
+- [2024-04] Github Repo Init. Code coming soon! :running::running::running:
