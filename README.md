@@ -8,7 +8,7 @@
         Yansong Tang<sup>1</sup>
     </a>&emsp;
     <!-- </br>Tsinghua University -->
-    <a>
+    <a href="https://github.com/AY-Liu"/>
         Aoyang Liu<sup>1</sup>
     </a>&emsp;
     <!-- </br>Tsinghua University -->
