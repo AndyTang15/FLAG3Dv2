@@ -5,7 +5,7 @@
 
 <div>
     <a href="https://andytang15.github.io/">
-        Yansong Tang*<sup>1</sup>
+        Yansong Tang<sup>1</sup>
     </a>&emsp;
     <!-- </br>Tsinghua University -->
     <a>
