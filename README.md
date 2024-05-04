@@ -45,6 +45,3 @@
 ![teaser](images/teaser.png)
 ![method1](images/figure1.png)
 ![method2](images/figure2.png)
-
-## Updates
-- [2024-04] Github Repo Init. Code coming soon! :running::running::running:
