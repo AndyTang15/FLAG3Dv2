@@ -2,6 +2,42 @@
 
 The repository contains the official implementation of "FLAG3D++".
 
+<div>
+    <a href="https://andytang15.github.io/">
+        Yansong Tang<sup>1</sup>
+    </a>&emsp;
+    <!-- </br>Tsinghua University -->
+    <a href="https://github.com/AY-Liu"/>
+        Aoyang Liu<sup>1</sup>
+    </a>&emsp;
+    <!-- </br>Tsinghua University -->
+    <a href="https://moonsliu.github.io/">
+        Jinpeng Liu<sup>1</sup>
+    </a>&emsp;
+    <!-- </br>Tsinghua University -->
+    <a href="https://shiyi-zh0408.github.io/">
+        Shiyi Zhang<sup>1</sup>
+    </a>&emsp;
+    <!-- </br>Tsinghua University -->
+    <a href="https://github.com/Dai-Wenxun">
+        Wenxun Dai<sup>1</sup>
+    </a>&emsp;
+    <!-- </br>Tsinghua University -->
+    <a href="https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en">
+        Jie Zhou<sup>1</sup>
+    </a>&emsp;
+    <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en">
+        Xiu Li<sup>1</sup>
+    </a>&emsp;
+    <a href="https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN">
+        Jiwen Lu<sup>1</sup>
+    </a>
+    <!-- </br>Tsinghua University -->
+    </li>&emsp;
+    <br>
+    <sup>1</sup>Tsinghua University
+</div>
+
 ![](images/teaser.png)
 
 ![](images/figure1.png)
